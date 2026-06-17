@@ -3,7 +3,7 @@ class Database {
     private $host = "localhost";
     private $username = "root";
     private $password = "";
-    private $dbname = "DB_LATIHAN_PBO_TRPL1B_NamaLengkap";
+    private $dbname = "DB_LATIHAN_PBO_TRPL1B_Sofia";
     public $conn;
 
     public function __construct() {
